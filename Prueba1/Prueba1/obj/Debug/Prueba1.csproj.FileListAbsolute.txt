@@ -1,0 +1,7 @@
+C:\Users\josen\OneDrive\Escritorio\Payment Evolution\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\josen\OneDrive\Escritorio\Payment Evolution\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\josen\OneDrive\Escritorio\Payment Evolution\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\josen\OneDrive\Escritorio\Payment Evolution\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Escritorio\Payment Evolution\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Escritorio\Payment Evolution\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\josen\OneDrive\Escritorio\Payment Evolution\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
